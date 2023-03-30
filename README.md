@@ -1,1 +1,1 @@
-# study-shader-web
+# study-webgl-web
